@@ -1,0 +1,17 @@
+**STRIKE** is a modern and responsive **landing page** created using **only HTML and CSS** for the **Coder Army Hackathon 2025**.  
+This project showcases a clean design, smooth animations, and a tech-inspired aesthetic that promotes a **Live DSA Course Launch**
+Folder Structure
+
+Strike/
+│
+├── index.html         # Main landing page
+├── style.css          # CSS styles and animations
+├── images/            # Images, 
+└── README.md          # Project documentation
+
+
+Fully responsive and mobile-friendly layout
+Smooth CSS-based animations
+Modern dark-themed design with accent colors
+Section highlights for course details, instructors, and registration
+Built 100% using HTML & CSS only
