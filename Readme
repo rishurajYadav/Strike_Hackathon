@@ -14,4 +14,11 @@ Fully responsive and mobile-friendly layout
 Smooth CSS-based animations
 Modern dark-themed design with accent colors
 Section highlights for course details, instructors, and registration
+
 Built 100% using HTML & CSS only
+
+- Header / Navbar — includes the *Coder Army* logo, Home, Tutorials, Courses, About Us, and Login button  
+- Hero Section — introduces the *Strike Live DSA Course Launch 
+- Call-to-Action (CTA) — encourages users to learn and explore  
+- Footer / Socials — minimal and stylish links 
+
